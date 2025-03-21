@@ -65,6 +65,7 @@
 .admin-dashbord__bottom-card-gird-right__container-parent {
    /* background-color: #ff0000; */
    margin: 1% 0% 4% 5%;
+   overflow: hidden;
 }
 /* Left Section: Projects */
 .projects-section {
